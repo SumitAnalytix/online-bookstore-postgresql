@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and environment files
+*.log
+.env
+.env.*
+
+# pgAdmin / IDE files
+.vscode/
+.idea/
+*.bak
+*.tmp
