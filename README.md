@@ -61,4 +61,4 @@ The script `sql/Ecommerce_sales_project.sql` covers **20 business questions** sp
 
 
 ## Author
-- **Sumit Raikwar** — [GitHub](https://github.com/SumitAnalytix) | [LinkedIn](https://linkedin.com/in/SumitAnalytix
+- **Sumit Raikwar** — [GitHub](https://github.com/SumitAnalytix) | [LinkedIn](https://linkedin.com/in/SumitAnalytix)
